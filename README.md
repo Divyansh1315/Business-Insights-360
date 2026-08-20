@@ -42,7 +42,7 @@ The primary objective of this project was to build a scalable business intellige
 
 The report contains a dedicated home page that allows users to navigate directly to each analytical section.
 
-![Business Insights 360 Home Page](images/01-home-page.png)
+![Business Insights 360 Home Page](Images/Home Page.png)
 
 The dashboard is organized into the following views:
 
