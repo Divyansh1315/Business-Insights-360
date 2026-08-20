@@ -42,7 +42,7 @@ The primary objective of this project was to build a scalable business intellige
 
 The report contains a dedicated home page that allows users to navigate directly to each analytical section.
 
-![Business Insights 360 Home Page](Images/Home Page.png)
+![Business Insights 360 Home Page](Images/Home%20Page.png)
 
 The dashboard is organized into the following views:
 
@@ -60,7 +60,7 @@ The dashboard is organized into the following views:
 
 The Finance View provides a detailed overview of the organization's financial performance.
 
-![Finance View](images/02-finance-view.png)
+![Finance View](Images/Finance%20View.png)
 
 ### Key capabilities
 
@@ -101,7 +101,7 @@ The Profit and Loss statement enables users to analyze the complete movement fro
 
 The Sales View focuses on customer performance, product performance, revenue generation and gross margin contribution.
 
-![Sales View](images/03-sales-view.png)
+![Sales View](Images/Sales%20View.png)
 
 ### Key capabilities
 
@@ -130,7 +130,7 @@ The Sales View focuses on customer performance, product performance, revenue gen
 
 The Marketing View evaluates product, segment, region and customer performance from a profitability perspective.
 
-![Marketing View](images/04-marketing-view.png)
+![Marketing View](Images/Marketing%20View.png)
 
 ### Key capabilities
 
@@ -158,7 +158,7 @@ The Marketing View evaluates product, segment, region and customer performance f
 
 The Supply Chain View monitors forecast performance and highlights potential inventory risks across customers and product segments.
 
-![Supply Chain View](images/05-supply-chain-view.png)
+![Supply Chain View](Images/Supply%20Chain%20View.png)
 
 ### Key capabilities
 
@@ -194,7 +194,7 @@ This allows supply chain teams to identify where forecast deviations may result 
 
 The Executive View consolidates the most important metrics from all business functions into a leadership-level dashboard.
 
-![Executive View](images/06-executive-view.png)
+![Executive View](Images/Executive%20View.png)
 
 ### Key capabilities
 
@@ -375,8 +375,7 @@ Business-Insights-360-PowerBI/
 │   └── 06-executive-view.png
 │
 └── documentation/
-    ├── dax-measures.md
-    └── business-insights.md
+    ├── insights-360-data-model
 ```
 
 ---
@@ -431,7 +430,7 @@ Aspiring Data Analyst focused on transforming complex business data into meaning
 
 <div align="center">
 
-### ⭐ If you found this project useful, consider giving the repository a star!
+### 
 
 **Built with Microsoft Power BI | Designed for data-driven decision-making**
 
